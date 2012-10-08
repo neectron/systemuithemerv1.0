@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">System UI Themer</string>
+    <string name="title_activity_main">System UI Themer</string>
+    <string name="stock">  Stock UI  </string>
+    <string name="mod1">Theme 1</string>
+    <string name="mod2">Theme 2</string>
+    <string name="mod3">Theme 3</string>
+    <string name="mod4">Theme 4</string>
+    <string name="neectron">neectron</string>
+    <string name="menus_settings">Enjoy!</string>
+
+</resources>
